@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="q1">1- Drinking coffee may lower your chance of? </string>
+    <string name="q1_a">Gallstones</string>
+    <string name="q1_b">Type 2 diabetes</string>
+    <string name="q1_c">Heart attack</string>
+    <string name="q2">2-Whats the best way to protect your teeth from the acid in coffee?</string>
+    <string name="edit_text">Enter a for brush b for use a straw or c for rinse by water </string>
+    <string name="q3">3-Which has less caffeine? </string>
+    <string name="q3_1">Ground coffee</string>
+    <string name="q3_2">Instant coffee</string>
+    <string name="q4">4-Where did coffee first come from? </string>
+    <string name="q4_1">South and Central America</string>
+    <string name="q4_2">Africa</string>
+    <string name="q5">5-Coffee plants are related to </string>
+    <string name="q5_1">Gardenias</string>
+    <string name="q5_2">Roses</string>
+    <string name="q6">6-Whats the best place to store your coffee beans or ground coffee? </string>
+    <string name="q6_1">Counter</string>
+    <string name="q6_2">Freezer</string>
+
+
+
+
+    <string name="score"> Score! </string>
+
+
+</resources>
